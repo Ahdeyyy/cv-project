@@ -1,0 +1,20 @@
+.cv-project {
+  text-align: center;
+}
+
+body{
+  background-color: #5e5e5e;
+}
+p {
+  color: #701060;
+}
+strong {
+  color: rgb(54, 11, 97);
+}
+
+section{
+  width: 60%;
+  margin: auto;
+  background-color: rgb(240, 241, 241);
+}
+
